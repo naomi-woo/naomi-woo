@@ -30,5 +30,7 @@ To live and work as a **digital nomad**, solving real-world problems with data �
 <br/>
 
 ## 📫 Let's connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/naomi-woo-profile/)  
-- 💻 [GitHub](https://github.com/naomi-woo)  
+
+- 🌐 [Portfolio](https://ritzy-freesia-ca2.notion.site/The-Portfolio-of-Naomi-Woo-1fd03e1d94fc80398067cd7310b033ac?pvs=4)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/naominomads/)
+
