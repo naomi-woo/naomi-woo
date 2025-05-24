@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Naomi Woo!  
-`From raw data to real stories.  `
+`🎯 From raw data to real stories.`
+
 
 <br/>
 A data analyst in the making — with global ambition and a curiosity-driven mindset.
