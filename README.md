@@ -31,6 +31,6 @@ To live and work as a **digital nomad**, solving real-world problems with data �
 
 ## 📫 Let's connect
 
-- 🌐 [Portfolio](https://ritzy-freesia-ca2.notion.site/The-Portfolio-of-Naomi-Woo-1fd03e1d94fc80398067cd7310b033ac?pvs=4)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/naominomads/)
+- 💼 [Portfolio](https://ritzy-freesia-ca2.notion.site/The-Portfolio-of-Naomi-Woo-1fd03e1d94fc80398067cd7310b033ac?pvs=4)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/naominomads/)
 
