@@ -5,8 +5,7 @@
 <br/>
 A data analyst in the making — with global ambition and a curiosity-driven mindset.
 
-<br/>💡 I’m currently completing the **IBM Data Analyst Professional Certificate**, actively exploring remote opportunities across borders as a global talent.
-Though I ultimately want to bridge data and fashion, I’m currently open to **all data-related roles** that challenge me to grow and expand my expertise.
+<br/>💡 I recently completed the IBM Data Analyst Professional Certificate and am now diving into portfolio projects to put my skills into action. While I ultimately aim to bridge data and fashion, I’m currently open to all data-related roles that challenge me to grow and expand my expertise.
 
 #### 🌍 My goal?  
 To live and work as a **digital nomad**, solving real-world problems with data — anywhere in the world.
@@ -15,8 +14,8 @@ To live and work as a **digital nomad**, solving real-world problems with data �
 
 
 ## 🔭 What I'm focusing on now
-- Completing the IBM Data Analyst Certificate  
-- Preparing for portfolio projects (Capstone coming soon!)  
+- Building hands-on portfolio projects (Capstone in progress!)
+- Expanding my skills in data visualization (Tableau, Power BI)
 - Actively applying to **remote and international roles** in data analytics  
 
 <br/>
