@@ -15,7 +15,6 @@ To live and work as a **digital nomad**, solving real-world problems with data â
 
 ## ðŸ”­ What I'm focusing on now
 - Building hands-on portfolio projects (Capstone in progress!)
-- Expanding my skills in data visualization (Tableau)
 - Actively applying to **remote and international roles** in data analytics  
 
 <br/>
